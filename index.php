@@ -111,7 +111,7 @@
    define("MAX_WITDH", 500);
    echo MAX_WIDTH;
    echo "<br>";
-    
+    MAX_WIDTH = MAX_WIDTH + 5;
 
   ?>
 
